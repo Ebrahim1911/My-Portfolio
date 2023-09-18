@@ -1,0 +1,70 @@
+.service-head {
+  padding: 2rem;
+  border-radius: 2rem 2rem 0 0;
+  box-shadow: 0 2rem 1rem rgba(0, 0, 0, 0, 0.1);
+  -webkit-border-radius: 2rem 2rem 0 0;
+  -moz-border-radius: 2rem 2rem 0 0;
+  -ms-border-radius: 2rem 2rem 0 0;
+  -o-border-radius: 2rem 2rem 0 0;
+}
+.service-head h3 {
+  color: white;
+  font-size: 1rem;
+  text-align: center;
+}
+.service-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.service-list li {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  background: var(--color-bg-variant);
+  display: flex;
+  gap: 1rem;
+  padding: 2rem;
+  margin-bottom: 0.8rem;
+  border: 1px solid transparent;
+  transition: var(--transition);
+  -webkit-transition: var(--transition);
+  -moz-transition: var(--transition);
+  -ms-transition: var(--transition);
+  -o-transition: var(--transition);
+  border-radius: 1rem;
+  -webkit-border-radius: 1rem;
+  -moz-border-radius: 1rem;
+  -ms-border-radius: 1rem;
+  -o-border-radius: 1rem;
+}
+.service-list li:hover {
+  background: transparent;
+  border-color: var(--color-primary-variant);
+  cursor: default;
+}
+
+.service-list-icon {
+  color: var(--color-primary);
+  margin-top: 0.1rem;
+}
+.service-list p {
+  font-size: 0.9rem;
+}
+/* Start Media Queries (Small)*/
+@media (max-width: 600px) {
+  .service-list {
+    gap: 0.5rem;
+  }
+  .service-list li {
+    gap: 1rem;
+  }
+  .service-list li p {
+    font-size: 0.7rem;
+  }
+  .service-list-icon {
+    width: 3rem;
+  }
+}
+/* End Media Queries (Small)*/
