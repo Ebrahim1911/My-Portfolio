@@ -1,4 +1,4 @@
-import CV from "../../assets/cv.pdf";
+import CV from "../../assets/Ebrahim-Nasser-Eldeen-FlowCV-Resume-20240505.pdf";
 function CTA() {
   return (
     <div className="cta">

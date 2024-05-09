@@ -4,7 +4,7 @@ function HeaderSocials() {
   return (
     <div className="header-socials">
       <a
-        href="https://www.linkedin.com/in/ebrahim-nassereldeen-b0b8b1246/"
+        href="https://www.linkedin.com/in/ebrahimnassereldeen/"
         target="_blank"
       >
         <BsLinkedin />

@@ -2,6 +2,7 @@
   text-align: center;
   background: var(--color-bg-variant);
   padding: 2.4rem 5rem;
+  margin-bottom: 2rem;
   border-radius: 2rem;
   -webkit-border-radius: 2rem;
   -moz-border-radius: 2rem;
@@ -79,6 +80,12 @@
 .experience-content .experience-details .experience-deails-icon {
   margin-top: 0.5rem;
   color: var(--color-primary);
+}
+.small-size-front {
+  font-size: 0.7rem;
+}
+.small-size-back {
+  font-size: 0.63rem;
 }
 /* Start Media Queries (Medium)*/
 @media (max-width: 1024px) {

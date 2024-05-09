@@ -9,7 +9,7 @@ function Header() {
         <div className="dynamic-txts">
           <h5>Hi, I'm</h5>
           <h1>Ebrahim Nasser Eldeen.</h1>
-          <h5 className="text-light">, and I am a Front End Developer.</h5>
+          <h5 className="text-light">, MERN stack developer.</h5>
           <CTA />
           <HeaderSocials />
           <div className="me">

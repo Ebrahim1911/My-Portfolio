@@ -11,15 +11,15 @@ function Experience() {
           <div className="experience-content">
             <article className="experience-details">
               <BsPatchCheckFill className="experience-deails-icon" />
-              <h4>HTML</h4>
+              <h4>HTML5</h4>
             </article>
             <article className="experience-details">
               <BsPatchCheckFill className="experience-deails-icon" />
-              <h4>CSS</h4>
+              <h4>CSS3</h4>
             </article>
             <article className="experience-details">
               <BsPatchCheckFill className="experience-deails-icon" />
-              <h4>Java Script</h4>
+              <h4>JavaScript (ES6+)</h4>
             </article>
             <article className="experience-details">
               <BsPatchCheckFill className="experience-deails-icon" />
@@ -27,7 +27,7 @@ function Experience() {
             </article>
             <article className="experience-details">
               <BsPatchCheckFill className="experience-deails-icon" />
-              <h4>Git&GitHub</h4>
+              <h4 className="small-size-front">Version Control (Git)</h4>
             </article>
             <article className="experience-details">
               <BsPatchCheckFill className="experience-deails-icon" />
@@ -44,6 +44,40 @@ function Experience() {
             <article className="experience-details">
               <BsPatchCheckFill className="experience-deails-icon" />
               <h4>Redux toolkit</h4>
+            </article>
+            <article className="experience-details">
+              <BsPatchCheckFill className="experience-deails-icon" />
+              <h4>Vite</h4>
+            </article>
+          </div>
+        </div>
+
+        <div className="experience-backend">
+          <h3>Backend Development</h3>
+          <div className="experience-content">
+            <article className="experience-details">
+              <BsPatchCheckFill className="experience-deails-icon" />
+              <h4>Node.js</h4>
+            </article>
+            <article className="experience-details">
+              <BsPatchCheckFill className="experience-deails-icon" />
+              <h4>Express.js</h4>
+            </article>
+            <article className="experience-details">
+              <BsPatchCheckFill className="experience-deails-icon" />
+              <h4>MongoDB</h4>
+            </article>
+            <article className="experience-details">
+              <BsPatchCheckFill className="experience-deails-icon" />
+              <h4>Mongoose</h4>
+            </article>
+            <article className="experience-details">
+              <BsPatchCheckFill className="experience-deails-icon" />
+              <h4>RESTful APIs</h4>
+            </article>
+            <article className="experience-details">
+              <BsPatchCheckFill className="experience-deails-icon" />
+              <h4 className="small-size-back">Database Management</h4>
             </article>
           </div>
         </div>
