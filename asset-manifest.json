@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.0f2df45b.css",
-    "main.js": "/My-Portfolio/static/js/main.d3b43252.js",
+    "main.css": "/My-Portfolio/static/css/main.de51403f.css",
+    "main.js": "/My-Portfolio/static/js/main.39a41142.js",
     "static/media/me.gif": "/My-Portfolio/static/media/me.823c9c5b517131df032b.gif",
     "static/media/me-about.jpg": "/My-Portfolio/static/media/me-about.92cfb74a10862669192a.jpg",
     "static/media/portfolio5.png": "/My-Portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
@@ -11,17 +11,17 @@
     "static/media/portfolio6.jpg": "/My-Portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
     "static/media/portfolio7.jpg": "/My-Portfolio/static/media/portfolio7.50eff2cf935a13830c29.jpg",
     "static/media/portfolio8.jpg": "/My-Portfolio/static/media/portfolio8.e2bac6a6757d50c43bb8.jpg",
-    "static/media/cv.pdf": "/My-Portfolio/static/media/cv.d76aaf5b5b27deda38f8.pdf",
     "static/media/portfolio10.jpg": "/My-Portfolio/static/media/portfolio10.bcd1b4b6d61f6b79f946.jpg",
     "static/media/portfolio1.jpg": "/My-Portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/Ebrahim-Nasser-Eldeen-FlowCV-Resume-20240505.pdf": "/My-Portfolio/static/media/Ebrahim-Nasser-Eldeen-FlowCV-Resume-20240505.f0c3a6d294a0c8f201fc.pdf",
     "static/media/portfolio3.jpg": "/My-Portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
     "static/media/portfolio4.jpg": "/My-Portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/My-Portfolio/index.html",
-    "main.0f2df45b.css.map": "/My-Portfolio/static/css/main.0f2df45b.css.map",
-    "main.d3b43252.js.map": "/My-Portfolio/static/js/main.d3b43252.js.map"
+    "main.de51403f.css.map": "/My-Portfolio/static/css/main.de51403f.css.map",
+    "main.39a41142.js.map": "/My-Portfolio/static/js/main.39a41142.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f2df45b.css",
-    "static/js/main.d3b43252.js"
+    "static/css/main.de51403f.css",
+    "static/js/main.39a41142.js"
   ]
 }
